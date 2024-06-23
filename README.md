@@ -18,10 +18,6 @@ You add your proficiency bonus as radiant damage to your unarmed strikes, and ar
  - Once per turn, when you deal Radiant damage with one of your attacks, you may spend an additional ki point to deal Fire damage equal to a roll of your Martial Arts die, and force the target to make a Constitution saving throw against your Spell Save DC. On a failure, they are blinded until the start of your next turn.
 
 
-## Level 9
+## Level 11
 ### Radiative Transfer
  - If you are hit with Radiant damage, you regain 1 ki point. You may use this feature a number of times equal to your Proficiency Bonus per short rest.
-
-
-## Level 11
-### 
