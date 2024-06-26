@@ -25,4 +25,4 @@
 
 ## Level 12
 ### Gravitational Lensing
- - At 17th level, your skin radiates the thick, harsh light of a sun. You shed bright light in a 9m radius and dim light for an additional 9m. You can extinguish or restore the light as a bonus action. Hostile creatures that are or move closer than 6m are immediately blinded, and have their remaining movement reduced by half. Hostile creatures that have been blinded in this way remain blinded while they are within 6m of you, and if they move outside of that radius remain blinded until the start of their next turn.
+ - At 17th level, your skin radiates the thick, harsh light of a sun. You shed bright light in a 9m radius and dim light for an additional 9m. You can extinguish or restore the light as a bonus action. Hostile creatures that are or move closer than 6m are immediately blinded, and have their remaining movement reduced by half. Hostile creatures that have been blinded in this way remain blinded while they are within 6m of you, and if they move outside of that radius remain blinded until the start of your next turn.
