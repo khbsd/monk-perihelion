@@ -7,7 +7,7 @@
  - You gain the option to replace any of your unarmed strikes with a ranged bolt of brilliant intensity. You are proficient with this ranged attack, and you add your Dexterity modifier to its attack and damage rolls. Its damage is radiant, and its damage die is equal to a roll of your Martial Arts die. 
  
 ### Ultraviolet
-You add your proficiency bonus as radiant damage to your unarmed strikes, and are resistant to Radiant damage.
+ - You add your proficiency bonus as radiant damage to your unarmed strikes, and are resistant to Radiant damage.
 
 
 ## Level 6
